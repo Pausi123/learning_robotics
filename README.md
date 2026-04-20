@@ -1,4 +1,4 @@
-# Learning Robotik — 8-Wochen-Lehrplan
+# Learning Robotics — 8-Wochen-Lehrplan
 
 Intensiv-Vorbereitung auf den Robotik-Teil meines Biomechatronik-Masters.
 Start: 20. April 2026. Ende: ~15. Juni 2026.

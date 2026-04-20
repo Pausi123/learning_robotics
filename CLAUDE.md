@@ -1,4 +1,4 @@
-# Learning Robotik — 8-Wochen-Lehrplan
+# Learning Robotics — 8-Wochen-Lehrplan
 
 ## Was dieser Ordner ist
 Intensiv-Vorbereitung auf den Robotik-Teil meines Biomechatronik-Masters
