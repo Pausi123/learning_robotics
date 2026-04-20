@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# C/C++ Build Artefakte
+*.o
+*.out
+*.exe
+build/
+*.dSYM/
+
+# VS Code Workspace
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CLAUDE.local.md (persönliche Notizen, nicht ins Git)
+CLAUDE.local.md
+
+# LibreOffice/Word Lock-Dateien
+.~lock.*
+~$*
