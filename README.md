@@ -28,4 +28,3 @@ Start: 20. April 2026. Ende: ~19. Juli 2026. Max. 8h/Woche.
 - [learncpp.com](https://www.learncpp.com)
 - [MathWorks Onramps](https://matlabacademy.mathworks.com)
 - [Brian Douglas — Control Systems](https://www.youtube.com/@ControlLectures)
-DONE
