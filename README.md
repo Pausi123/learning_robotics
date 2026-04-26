@@ -1,4 +1,4 @@
-# Learning Robotics — 8-Wochen-Lehrplan
+# Learning Robotik — 12-Wochen-Lehrplan
 
 Intensiv-Vorbereitung auf den Robotik-Teil meines Biomechatronik-Masters.
 Start: 20. April 2026. Ende: ~19. Juli 2026. Max. 8h/Woche.
@@ -28,11 +28,4 @@ Start: 20. April 2026. Ende: ~19. Juli 2026. Max. 8h/Woche.
 - [learncpp.com](https://www.learncpp.com)
 - [MathWorks Onramps](https://matlabacademy.mathworks.com)
 - [Brian Douglas — Control Systems](https://www.youtube.com/@ControlLectures)
-
-## Setup
-```bash
-conda activate robotik_learning
-cd ~/Nitro5_Ubuntu_sync/Biomechatronik/Learning_Robotik
-claude   # CLAUDE.md wird automatisch geladen
-```
-EOF
+DONE
