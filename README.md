@@ -1,19 +1,38 @@
 # Learning Robotics — 8-Wochen-Lehrplan
 
 Intensiv-Vorbereitung auf den Robotik-Teil meines Biomechatronik-Masters.
-Start: 20. April 2026. Ende: ~15. Juni 2026.
+Start: 20. April 2026. Ende: ~19. Juli 2026. Max. 8h/Woche.
+
+## Phasen
+| Wochen | Fokus | Ressource |
+|--------|-------|-----------|
+| 1–4    | Python komplett | Codedex (Intermediate, NumPy, Matplotlib, Pandas, ML) |
+| 5–6    | C | YouTube Christian Stöcker (30 Videos) |
+| 7–8    | C++ | Stöcker (14 Videos) + Codedex + learncpp.com |
+| 9      | Projekte A + B | A* Pathplanning (Python), Kalman Filter (C) |
+| 10–11  | MATLAB + Simulink | MathWorks Onramps + Projekt C (PID) |
+| 12     | Abschluss | Alle Projekte + GitHub Dokumentation |
 
 ## Struktur
-- `01_python/` — Codedex Intermediate/Advanced, NumPy, A*-Projekt
-- `02_c/` — Openbook Wolf, Pointer, Kalman-Sensor-Projekt
-- `03_cpp/` — Codedex + learncpp, Roboterarm-Projekte
-- `04_platformio/` — ESP32/Arduino-Projekte (ab Mittwoch)
+- `01_python/` — Codedex Kurse + A*-Projekt
+- `02_c/` — Stöcker-Übungen + Kalman-Projekt
+- `03_cpp/` — Stöcker + Codedex + learncpp
+- `04_platformio/` — ESP32/Arduino (Bonus ab Woche 8)
 - `weekly_reviews/` — Sonntag-Review-Dateien
-- `CLAUDE.md` — Projekt-Kontext für Claude Code
-- `.claude/commands/` — Slash Commands: /quiz, /explain, /review
+- `CLAUDE.md` — Kontext für Claude Code
+- `.claude/commands/` — /quiz, /explain, /review
 
-## Python-Environment
-`conda activate robotik_learning`
+## Ressourcen
+- [Codedex](https://www.codedex.io)
+- [YouTube Christian Stöcker](https://www.youtube.com/@christianstoecker4787)
+- [learncpp.com](https://www.learncpp.com)
+- [MathWorks Onramps](https://matlabacademy.mathworks.com)
+- [Brian Douglas — Control Systems](https://www.youtube.com/@ControlLectures)
 
-## Claude Code nutzen
-`cd` in diesen Ordner, dann `claude` starten. CLAUDE.md wird automatisch geladen.
+## Setup
+```bash
+conda activate robotik_learning
+cd ~/Nitro5_Ubuntu_sync/Biomechatronik/Learning_Robotik
+claude   # CLAUDE.md wird automatisch geladen
+```
+EOF
